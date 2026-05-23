@@ -70,3 +70,5 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn geopandas i
 * **Rainfall Variability:** While average temperatures are rising predictably, rainfall remains highly erratic and volatile.
 * **Input vs. Yield:** High per-hectare usage of fertilizers and pesticides does not guarantee high yields. Clustering shows high yields are achieved across a wide spectrum of input intensities, suggesting soil health, water, and crop type play more decisive roles.
 * **Crop Dominance:** Coastal and southern states show massive production weights driven heavily by specific crops (like Coconuts), while northern plains dominate in total cultivated area and sheer volume of staple grains (Wheat and Rice).
+
+Colab Link: https://colab.research.google.com/drive/1Y1YCGvHRMOJct-LtZVrb7JyAvnG6qYQ6?usp=sharing
